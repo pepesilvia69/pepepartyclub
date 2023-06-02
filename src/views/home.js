@@ -143,9 +143,9 @@ closeButton.addEventListener("click", function() {
           <div className="home-row">
             <div className="home-category1">
               <div className="home-headng1">
-                <span className="home-text13">Mugsy</span>
+                <span className="home-text13">LimoWerner</span>
                 <span className="home-text14">
-                  Pepe Whale/ Project CoFounder
+                  Smart Contract Guy/ Project CoFounder
                 </span>
               </div>
               <img
@@ -156,8 +156,8 @@ closeButton.addEventListener("click", function() {
             </div>
             <div className="home-category2">
               <div className="home-headng2">
-                <span className="home-text15">Pepe Silvia</span>
-                <span className="home-text16">Web3 Dev / Pepe Maxi</span>
+                <span className="home-text15">BonAppetitJovi</span>
+                <span className="home-text16">Web Dev / Pepe Maxi</span>
               </div>
               <img
                 alt="pastedImage"
